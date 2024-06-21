@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROGRAMMING\\FormSubmission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|c:\\programming\\formsubmission\\formsubmission\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|solutionrelative:formsubmission\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|C:\\PROGRAMMING\\FormSubmission\\formsubmission\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|solutionrelative:formsubmission\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|C:\\PROGRAMMING\\FormSubmission\\formsubmission\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|solutionrelative:formsubmission\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|C:\\PROGRAMMING\\FormSubmission\\formsubmission\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|solutionrelative:formsubmission\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|C:\\PROGRAMMING\\FormSubmission\\formsubmission\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|solutionrelative:formsubmission\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|C:\\PROGRAMMING\\FormSubmission\\formsubmission\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFF4914D-F6B2-4533-8C97-8F800F239613}|FormSubmission\\FormSubmission.vbproj|solutionrelative:formsubmission\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\PROGRAMMING\\FormSubmission\\FormSubmission\\Form3.vb",
+              "RelativeDocumentMoniker": "FormSubmission\\Form3.vb",
+              "ToolTip": "C:\\PROGRAMMING\\FormSubmission\\FormSubmission\\Form3.vb",
+              "RelativeToolTip": "FormSubmission\\Form3.vb",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:53:30.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\PROGRAMMING\\FormSubmission\\FormSubmission\\Form3.vb",
+              "RelativeDocumentMoniker": "FormSubmission\\Form3.vb",
+              "ToolTip": "C:\\Users\\shamk\\source\\repos\\FormSubmission\\FormSubmission\\Form3.vb [Design]",
+              "RelativeToolTip": "..\\..\\Users\\shamk\\source\\repos\\FormSubmission\\FormSubmission\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:53:02.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\PROGRAMMING\\FormSubmission\\FormSubmission\\Form2.vb",
+              "RelativeDocumentMoniker": "FormSubmission\\Form2.vb",
+              "ToolTip": "C:\\PROGRAMMING\\FormSubmission\\FormSubmission\\Form2.vb",
+              "RelativeToolTip": "FormSubmission\\Form2.vb",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T11:39:46.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\PROGRAMMING\\FormSubmission\\FormSubmission\\Form2.vb",
+              "RelativeDocumentMoniker": "FormSubmission\\Form2.vb",
+              "ToolTip": "C:\\Users\\shamk\\source\\repos\\FormSubmission\\FormSubmission\\Form2.vb [Design]",
+              "RelativeToolTip": "..\\..\\Users\\shamk\\source\\repos\\FormSubmission\\FormSubmission\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T11:39:06.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\PROGRAMMING\\FormSubmission\\FormSubmission\\Form1.vb",
+              "RelativeDocumentMoniker": "FormSubmission\\Form1.vb",
+              "ToolTip": "C:\\PROGRAMMING\\FormSubmission\\FormSubmission\\Form1.vb",
+              "RelativeToolTip": "FormSubmission\\Form1.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAzwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T11:28:00.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\PROGRAMMING\\FormSubmission\\FormSubmission\\Form1.vb",
+              "RelativeDocumentMoniker": "FormSubmission\\Form1.vb",
+              "ToolTip": "C:\\Users\\shamk\\source\\repos\\FormSubmission\\FormSubmission\\Form1.vb [Design]",
+              "RelativeToolTip": "..\\..\\Users\\shamk\\source\\repos\\FormSubmission\\FormSubmission\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T11:25:19.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
