@@ -25,9 +25,10 @@ This repository contains the code for a Windows Desktop Application developed fo
 - Editable fields for Name, Email, Phone Number, and GitHub repo link.
 - Stopwatch with pause and resume functionality (does not reset on pause).
 - Submit: Submits the details to the backend.
-- 
+
 ### 4. Keyboard Shortcuts
 - Validation for each input textbox has been implemented
+
 ### 5. Keyboard Shortcuts
 - All buttons have keyboard shortcuts.
 - For example, Ctrl + S submits the form on the Create New Submission page.
